@@ -4,6 +4,14 @@ Docker Hub Repository: https://hub.docker.com/r/suzukishunsuke/supervisor/
 
 ## Releases
 
+### 0.1.1
+
+```
+VOLUME /var/log/supervisor /etc/supervisor
+```
+
+* [Dockerfile](https://github.com/suzuki-shunsuke/supervisor.docker/blob/0.1.1/Dockerfile)
+
 ### 0.1.0
 
 * alpine:3.3
